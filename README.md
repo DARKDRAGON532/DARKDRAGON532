@@ -17,7 +17,8 @@
         "Java",
         "HTML/CSS",
         "Typescript",
-        "Brainf*ck"
+        "Brainf*ck",
+        "VueJS"
     ],
     "📫 How to reach me" : {
         "Discord" : "DARKDRAGON532#5505",
