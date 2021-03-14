@@ -20,8 +20,11 @@
         "Brainf*ck",
         "VueJS"
     ],
-    "📫 How to reach me" : {
+    "📫 How to contact me" : {
         "Discord" : "DARKDRAGON532#5505",
+    },
+    "🤑 Money" : {
+        "Banano" : "ban_1pebxdkxss6n94i3yni9yz5rqeaxdk47nyybaf4njpsaep475na5qag575s6",
     },
     "⚡ Fun fact" : "I SUCK AT PROGRAMMING DON'T EXPECT GOOD CODE HERE!"
 }
